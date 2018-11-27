@@ -1,5 +1,13 @@
 .idea/
 
+# sayhello
+Pipfile.lock
+
+#database
 data.db
 
-Pipfile.lock
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
