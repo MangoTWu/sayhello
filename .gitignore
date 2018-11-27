@@ -1,1 +1,5 @@
 .idea/
+
+data.db
+
+Pipfile.lock
